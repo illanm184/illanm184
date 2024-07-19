@@ -1,4 +1,4 @@
-## Apenas fazendo meu trabalho
+## 🌌 Apenas fazendo meu trabalho
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sjjtfi63oxmwuk4gjviij5ioh)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illanm184/illanm184/output/github-contribution-grid-snake-dark.svg">
